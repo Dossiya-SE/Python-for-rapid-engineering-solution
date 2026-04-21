@@ -54,18 +54,20 @@ This project applies structured exploratory data analysis (EDA) to a heart datas
 
 ## Key Results  
 
+## Key Results  
+
 ### Correlation Heatmap  
-![Correlation Heatmap](problem1_outputs/corr_heatmap.png)
+![Correlation Heatmap](https://raw.githubusercontent.com/Dossiya-SE/Python-for-rapid-engineering-solution/main/assets/correlation_heatmap.png)
 
 ---
 
 ### Covariance Heatmap  
-![Covariance Heatmap](problem1_outputs/cov_heatmap.png)
+![Covariance Heatmap](https://raw.githubusercontent.com/Dossiya-SE/Python-for-rapid-engineering-solution/main/assets/covariance_heatmap.png)
 
 ---
 
 ### Feature Relationships (Pair Plot)  
-![Pairplot](problem1_outputs/pairplot.png)
+![Pair Plot](https://raw.githubusercontent.com/Dossiya-SE/Python-for-rapid-engineering-solution/main/assets/pairplot.png)
 
 ---
 
