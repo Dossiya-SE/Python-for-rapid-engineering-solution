@@ -22,7 +22,7 @@ The project studies multivariate structure in [`heart1.csv`](heart1.csv), includ
 \rho_{ij}=\frac{\Sigma_{ij}}{\sigma_i\sigma_j}.
 ```
 
-Covariance is scale-sensitive. Correlation is a normalized association diagnostic. **Neither is causal evidence.**
+Covariance is scale-sensitive. Correlation is used here as an **association diagnostic**, not evidence of causation.
 
 ## Evidence status
 
